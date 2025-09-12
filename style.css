@@ -461,37 +461,37 @@ a.signIn-unactive:hover{
     border: none;
 }
 .equipe .membros #Geovanna .blob {
-    background-image: url(Assets/fotos-membros/Geovanna.png);
+    background-image: url(Assets/Members/Geovanna.png);
 }
 .equipe .membros #Bianca .blob {
-    background-image: url(Assets/fotos-membros/Bianca.png);
+    background-image: url(Assets/Members/Bianca.png);
 }
 .equipe .membros #Gabriela .blob {
-    background-image: url(Assets/fotos-membros/Gabriela.png);
+    background-image: url(Assets/Members/Gabriela.png);
 }
 .equipe .membros #Sarah .blob {
-    background-image: url(Assets/fotos-membros/Sarah.png);
+    background-image: url(Assets/Members/Sarah.png);
 }
 .equipe .membros #Lucas .blob {
-    background-image: url(Assets/fotos-membros/Lucas.png);
+    background-image: url(Assets/Members/Lucas.png);
 }
 .equipe .membros #Rafael .blob {
-    background-image: url(Assets/fotos-membros/Rafael.png);
+    background-image: url(Assets/Members/Rafael.png);
 }
 .equipe .membros #Lucca .blob {
-    background-image: url(Assets/fotos-membros/Lucca.png);
+    background-image: url(Assets/Members/Lucca.png);
 }
 .equipe .membros #Daniel .blob {
-    background-image: url(Assets/fotos-membros/Daniel.png);
+    background-image: url(Assets/Members/Daniel.png);
 }
 .equipe .membros #Gabriel .blob {
-    background-image: url(Assets/fotos-membros/Gabriel.png);
+    background-image: url(Assets/Members/Gabriel.png);
 }
 .equipe .membros #Carlos .blob {
-    background-image: url(Assets/fotos-membros/Carlos.png);
+    background-image: url(Assets/Members/Carlos.png);
 }
 .equipe .membros #Kaique .blob {
-    background-image: url(Assets/fotos-membros/Kaique.png);
+    background-image: url(Assets/Members/Kaique.png);
 }
 footer{
     transition: 0.25s;
@@ -558,3 +558,4 @@ footer img.nuvem{
     position: relative;
     top: 5px;
 }
+
